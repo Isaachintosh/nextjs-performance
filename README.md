@@ -1,3 +1,16 @@
+# Welcome to My Next.js Performance App!
+
+## Project Goals
+
+The main goals of this project are:
+
+<ul>
+    <li>Learn about the Server Side Rendering Concept</li>
+    <li>Practice Typescript Interpretation</li>
+    <li>Learn good practices of React and Nextjs</li>
+    <li>Understand the CSR vs. SSR paradigms</li>
+</ul>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -33,13 +46,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Project Goals
-
-The main goals of this project are:
-
-<ul>
-    <li>Learn about the Server Side Rendering Concept</li>
-    <li>Practice Typescript Interpretation</li>
-    <li>Learn good practices of React and Nextjs</li>
-    <li>Understand the CSR vs. SSR paradigms</li>
-</ul>
