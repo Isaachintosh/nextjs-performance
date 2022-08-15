@@ -32,3 +32,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Project Goals
+
+The main goals of this project are:
+
+<ul>
+    <li>Learn about the Server Side Rendering Concept</li>
+    <li>Practice Typescript Interpretation</li>
+    <li>Learn good practices of React and Nextjs</li>
+    <li>Understand the CSR vs. SSR paradigms</li>
+</ul>
